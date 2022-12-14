@@ -1,7 +1,6 @@
 #Written by Sanjana Kolisetty
-#Question 2 - The 8 puzzle problem
-#Code File - Question2_210101093.py
-#Terminal Command to run the file - python3 Question2_210101093.py
+#The 8 puzzle problem
+
 #Input - Enter the initial and final configuration in the form of a 3x3 matrix
 #        with the empty space or blank as zero
 #Output - If the problem is not solvable, the programme will print "Not Possible", otherwise, it'll print all the steps 
