@@ -1,13 +1,13 @@
-The 8 puzzle problem 
+# The 8 puzzle problem 
 
-Input - Enter the initial and final configuration in the form of a 3x3 matrix
-        with the empty space or blank as zero
+# Input - Enter the initial and final configuration in the form of a 3x3 matrix
+         with the empty space or blank as zero
         
-Output - If the problem is not solvable, the programme will print "Not Possible", otherwise, it'll print all the steps 
+# Output - If the problem is not solvable, the programme will print "Not Possible", otherwise, it'll print all the steps 
          if the problem is solvable in less than 10 steps, otherwise it'll print the first 10 steps and will print 
          "The given problem can be solved but will require more than 10 steps.".
 
-Explanation of the logic and code :-
+# Explanation of the logic and code :-
 
 The programme gives the step-by-step solution to solving the 8 puzzle problem.
 The input takes the initial and final configuration. I'm taking the input by "list(map(int,input().split())) for i in range(3)".
